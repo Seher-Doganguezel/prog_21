@@ -1,4 +1,4 @@
-package augabe2;
+package aufgabe2;
 
 public class MyIntegerMain {
 
